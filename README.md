@@ -46,7 +46,7 @@ I enjoy mathematical challenges and, in my previous job, often found myself draw
 
 - Qualified Scaled Agile Framework (SAFe) Scrum Master
 - Full product development lifecycle experience
-- Data analysis using Excel, VBA, Tableau, and Python with Pandas
+- Data analysis using Excel, VBA, Tableau, Python with Pandas
 
 ## Projects
 | Title | Description | Development Timeframe | Type | Technologies Used | Test Suites/CIs/CDs Employed |
