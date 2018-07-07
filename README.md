@@ -36,8 +36,6 @@ I am interested in understanding different approaches and design patterns to hel
 While working at PA Consulting I was lucky enough to be seconded for a year with Sir Ben Ainslie's Americas Cup sailing team. As Project Manager for the Technical Innovation Group (TIG) I was in charge of delivering a portfolio of over 20 technical projects that delivered new capabilities to the team by drawing upon the expertise of their six technical partners. My role was to act as the interface between the team who were the business owners and the partners technical delivery teams. I defined requirements, developed project scopes and plans, managed the day to day technical delivery and tracked and reported progress and financials.
 Overall we delivered a number of hugely valuable pieces of work including new communications hardware, machine learning tools, aerodynamic models and race tracking applications.
 
-Information about the work done by the TIG can be found [here](http://land-rover-bar.americascup.com/en/technical-innovation-group.html).
-
 #### Problem Solving
 
 Problem solving is in my nature and is the main reason I was drawn to a career as an Engineer. I have a DIY mentality at home, something which annoys my wife deeply. Whether it be a home appliance or an iphone, if it is broken I will try and fix it.
@@ -57,7 +55,7 @@ I enjoy mathematical challenges and, in my previous job, often found myself draw
 | [Bank Tech Test](https://github.com/georgesykes86/bank_tech_test) | A app that simulates a bank account with the ability to withdraw, deposit and print statements. Intended to demonstrate good OOP design. | 2 days | Solo | Java | JUnit, Mockito |
 | [Gilded Rose](https://github.com/georgesykes86/GildedRose-Kata) | A refactoring kata where you have to take bad legacy code and make it easier to understand and extend. | 2 days | Solo | Javascript | Jasmine |
 | [Bowling Scorecard](https://github.com/georgesykes86/bowling-challenge) | An OOP exercise based on a classic coding challenge of developing a 10 pin bowling scorecard which also integrates a basic UI | 4 days | Solo | Javascript, HTML/CSS (Semantic UI) | Jasmine |
-| [Rock, Paper, Scissors](https://github.com/georgesykes86/rps-challenge) | An app that allows a player to have a game of Rock, Paper, Scissors, Lizard, Spock either against the computer or against another player. | 2 days | Solo | Ruby, Sinatra | RSpec, Capybara |
+| [Rock, Paper, Scissors](https://github.com/georgesykes86/rps-challenge) | An app that allows a player to have a game of Rock, Paper, Scissors, Lizard, Spock either against the computer or against another player. Deployed on [Heroku](https://rps-challenge-gs.herokuapp.com/) | 2 days | Solo | Ruby, Sinatra | RSpec, Capybara |
 
 ## Education
 
@@ -77,14 +75,14 @@ A 16-week intensive software development bootcamp focussing on:
 
 - Master of Engineering - specialising in Mechanical and Materials Engineering
 - 1st Class
-- I was awarded an academic scholarship by my college for each of my first three years
+- Awarded an academic scholarship by my college for each of my first three years
 - Captain of the University Rugby League team
 
 #### Marlborough College (2000-2005)
 
 - A-levels - Mathematics A, Further Mathematics A, Physics A, Chemistry A
 - GCSE - 9 A*, 2 A
-- I was awarded an academic scholarship
+- Awarded an academic scholarship
 
 ## Experience
 
