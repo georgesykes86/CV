@@ -21,7 +21,7 @@ During the Makers Academy course we have regularly taken part in 1-2 week projec
 
 My career as a technology consultant has provided me with many opportunities to develop strong communication skills. I have facilitated workshops, delivered presentations to senior stakeholders and regularly chaired meetings.
 
-I pride myself on being able to tailor my method, style and content of communication to the audience whether they be a collection of senior executives who need to understand the strategic impact of a piece of work or a group of 11 year olds who want to know more about what it means to be an engineer.
+I pride myself on being able to tailor my method, style and content of communication to the audience, whether they be a collection of senior executives who need to understand the strategic impact of a piece of work or a group of 11 year olds who want to know more about what it means to be an engineer.
 
 Throughout school and university I often found myself trying to simplify and explain challenging concepts to my peers which has been very beneficial in my professional life when communicating technical details to team members and clients.
 
@@ -48,14 +48,16 @@ I enjoy mathematical challenges and, in my previous job, often found myself draw
 
 - Qualified Scaled Agile Framework (SAFe) Scrum Master
 - Full product development lifecycle experience
-- Data analysis using Excel, VBA and Tableau
+- Data analysis using Excel, VBA, Tableau, and Python with Pandas
 
 ## Projects
 | Title | Description | Development Timeframe | Type | Technologies Used | Test Suites/CIs/CDs Employed |
 |----|----|----|----|----|----|
+| [RetroMail](https://github.com/charmalt/final-project-main) | A project that simulates the core processes of email from send to receive. Including a Mail Client with a React front-end, an SMTP and a POP3 server, and a AWS hosted PostgreSQL database | 10 days | Group of 5 | Node.js, JavaScript, Express, React, AWS, PostgreSQL | Jest, Enzyme |
 | [Bank Tech Test](https://github.com/georgesykes86/bank_tech_test) | A app that simulates a bank account with the ability to withdraw, deposit and print statements. Intended to demonstrate good OOP design. | 2 days | Solo | Java | JUnit, Mockito |
 | [Gilded Rose](https://github.com/georgesykes86/GildedRose-Kata) | A refactoring kata where you have to take bad legacy code and make it easier to understand and extend. | 2 days | Solo | Javascript | Jasmine |
 | [Bowling Scorecard](https://github.com/georgesykes86/bowling-challenge) | An OOP exercise based on a classic coding challenge of developing a 10 pin bowling scorecard which also integrates a basic UI | 4 days | Solo | Javascript, HTML/CSS (Semantic UI) | Jasmine |
+| [Rock, Paper, Scissors](https://github.com/georgesykes86/rps-challenge) | An app that allows a player to have a game of Rock, Paper, Scissors, Lizard, Spock either against the computer or against another player. | 2 days | Solo | Ruby, Sinatra | RSpec, Capybara |
 
 ## Education
 
@@ -66,7 +68,7 @@ A 16-week intensive software development bootcamp focussing on:
 - Programming best practices - OOP, TDD, DRY, SOLID
 - Teamwork and product development methodologies - Agile, Kanban, XP
 - Languages: Ruby, JavaScript, Java, Html/CSS
-- Frameworks and libraries: Sinatra, Spring Boot, node.js/Express, React, JQuery
+- Frameworks and libraries: Sinatra, Spring Boot, Node.js/Express, React, JQuery
 - Testing suites: RSpec, Jasmine, Cypress, Capybara, JUnit
 - Databases: PostgreSQL
 - CI/CD: Travis CI, Heroku, Docker
