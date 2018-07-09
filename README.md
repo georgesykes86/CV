@@ -11,13 +11,13 @@
 
 I am a hardworking and passionate technology enthusiast who hates not understanding how something works, whether it be a new framework or my broken, old boiler at home. I am a quick learner and if it can't be learned quickly then I am happy to put in the time to do it the slow way. I have worked in Technology Consultancy for almost 8 years performing and managing early-stage design and development of products across the medical, consumer and defence industries. I have seen how digital technologies are impacting the way we interact with products and businesses today and I love that I can combine my creative and technical skills to quickly build something new.
 
-I enjoy battling with mathematical problems so any role that can help satisfy that urge whether it be data manipulation, geometry or even cryptography would be great. Above all I am looking for a job where I can continue to learn new technologies and concepts and keep pushing myself to be a better developer. Oh, and to have fun while I'm doing it!
+I enjoy battling with mathematical problems so any role that can help satisfy that urge would be great. Whether it be manipulating large data sets, integrating analytical tools or looking into security and cryptography, I am eager to develop my capabilities. Above all I am looking for a job where I can continue to learn new technologies and concepts and keep pushing myself to be a better developer. Oh, and to have fun while I'm doing it!
 
 ## Skills
 
 ### Team Work and communication
 
-During the Makers Academy course we have regularly taken part in 1-2 week projects in groups of 4-6. During these projects we have employed Agile methodologies such as sprints and Kanban whilst always adhering to XP values. When not working in groups we predominantly pair-programmed.
+During the Makers course we have regularly taken part in 1-2 week projects in groups of 4-6. During these projects we have employed Agile methodologies such as sprints and Kanban whilst always adhering to XP values. When not working in groups we predominantly pair-programmed.
 
 My career as a technology consultant has provided me with many opportunities to develop strong communication skills. I have facilitated workshops, delivered presentations to senior stakeholders and regularly chaired meetings.
 
@@ -27,13 +27,13 @@ Throughout school and university I often found myself trying to simplify and exp
 
 ### Clean code advocate
 
-During my time at Makers Academy I have always aimed to produce code that I believe to be of a high quality. I try to implement programming principles such as SOLID and DRY to ensure my codebase is as efficient and easy to understand as possible. I believe in the use of TDD/BDD to improve the quality and robustness of code and have seen their true value in speeding up the development process on more complex projects. I am a strong advocate for taking the time to get a good test suite in place at the beginning of a project as it will prove its worth later in the development cycle.
+During my time at Makers I have always aimed to produce code that I believe to be of a high quality. I try to implement programming principles such as SOLID and DRY to ensure my codebase is as efficient and easy to understand as possible. I believe in the use of TDD/BDD to improve the quality and robustness of code and have seen their true value in speeding up the development process on more complex projects. I am a strong advocate for taking the time to get a good test suite in place at the beginning of a project as it will prove its worth later in the development cycle.
 
 I am interested in understanding different approaches and design patterns to help improve the quality of my code. The Gilded Rose kata (listed in the projects section) shows how I explored different design patterns to address a problem.
 
 #### Technical Delivery
 
-While working at PA Consulting I was lucky enough to be seconded for a year with Sir Ben Ainslie's Americas Cup sailing team. As Project Manager for the Technical Innovation Group (TIG) I was in charge of delivering a portfolio of over 20 technical projects that delivered new capabilities to the team by drawing upon the expertise of their six technical partners. My role was to act as the interface between the team who were the business owners and the partners technical delivery teams. I defined requirements, developed project scopes and plans, managed the day to day technical delivery and tracked and reported progress and financials.
+While working at PA Consulting I was lucky enough to be seconded for a year with Sir Ben Ainslie's Americas Cup sailing team. As Project Manager for the Technical Innovation Group (TIG) I was in charge of managing a portfolio of over 20 technical projects that delivered new capabilities to the team by drawing upon the expertise of their six technical partners. My role was to act as the interface between the team who were the business owners and the partners technical delivery teams. I defined requirements, developed project scopes and plans, managed the day to day technical delivery and tracked and reported progress and financials.
 Overall we delivered a number of hugely valuable pieces of work including new communications hardware, machine learning tools, aerodynamic models and race tracking applications.
 
 #### Problem Solving
@@ -59,7 +59,7 @@ I enjoy mathematical challenges and, in my previous job, often found myself draw
 
 ## Education
 
-#### Makers Academy (April 2018 to July 2018)
+#### Makers (April 2018 to July 2018)
 
 A 16-week intensive software development bootcamp focussing on:
 
