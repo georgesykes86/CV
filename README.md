@@ -31,18 +31,18 @@ During my time at Makers I have always aimed to produce code that I believe to b
 
 I am interested in understanding different approaches and design patterns to help improve the quality of my code. The Gilded Rose kata (listed in the projects section) shows how I explored different design patterns to address a problem.
 
-#### Technical Delivery
+### Technical Delivery
 
 While working at PA Consulting I was lucky enough to be seconded for a year with Sir Ben Ainslie's Americas Cup sailing team. As Project Manager for the Technical Innovation Group (TIG) I was in charge of managing a portfolio of over 20 technical projects that delivered new capabilities to the team by drawing upon the expertise of their six technical partners. My role was to act as the interface between the team who were the business owners and the partners technical delivery teams. I defined requirements, developed project scopes and plans, managed the day to day technical delivery and tracked and reported progress and financials.
 Overall we delivered a number of hugely valuable pieces of work including new communications hardware, machine learning tools, aerodynamic models and race tracking applications.
 
-#### Problem Solving
+### Problem Solving
 
 Problem solving is in my nature and is the main reason I was drawn to a career as an Engineer. I have a DIY mentality at home, something which annoys my wife deeply. Whether it be a home appliance or an iphone, if it is broken I will try and fix it.
 
 I enjoy mathematical challenges and, in my previous job, often found myself drawn to projects that required an element of modelling. I created models ranging from the uptake of energy efficiency products in the home to the characteristics of a spring inside a medical device. One project I have started recently is to develop a tool that helps teachers group children based on their preferences. Although this is still very much in its infancy, I have enjoyed getting to grips with the underlying algorithms.
 
-#### Other Skills
+### Other Skills
 
 - Qualified Scaled Agile Framework (SAFe) Scrum Master
 - Full product development lifecycle experience
