@@ -44,7 +44,7 @@ While working at PA Consulting I took on the role of Project Manager for the Tec
 
 ### Problem Solving
 
-Problem solving is in my nature and is the main reason I was drawn to a career as an Engineer. I enjoy mathematical challenges and, in my previous job, often found myself drawn to projects that required an element of modelling. I created models ranging from the uptake of energy efficiency products in the home to the characteristics of a spring inside a medical device.
+Problem solving is in my nature and is the main reason I was drawn to a career as an Engineer. I enjoy mathematical challenges and, in my previous job, I regularly undertook projects that required an element of modelling. I created models ranging from the uptake of energy efficiency products in the home to the characteristics of a spring inside a medical device.
 
 I have recently started a project to develop a tool that helps teachers group children based on their preferences. Although this is still very much in its infancy, I have enjoyed getting to grips with the underlying algorithms.
 
@@ -98,8 +98,10 @@ A 16-week intensive software development bootcamp focussing on:
 I worked across a wide range of industries to develop innovative solutions to technical problems, often with accelerated timelines
 
 - Technology and Innovation management
-- Mechanical design
-- Agile development
+- Mechanical analysis and modelling
+- Product design and prototyping
+- Agile development and design sprints
+- Stakeholder management and business development
 
 **Accenture** (2010 to 2012)   
 *Technology Analyst*  
@@ -107,6 +109,8 @@ I worked with clients in the Utilities and Telecoms industries to gather functio
 
 - Requirements gathering
 - Stakeholder management
+- Data modelling
+- Sustainability strategy
 
 ## Interests
 
